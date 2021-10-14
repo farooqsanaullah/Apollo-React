@@ -12,8 +12,6 @@ if(data){
 	console.log(data)
 }
 
-
-
   return (
 	 
   	<Grid columns={3} >
